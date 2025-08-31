@@ -1,0 +1,19 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# Arquivos de build (se usar Maven/Gradle no futuro)
+target/
+.mvn/
+build/
+*.jar
+*.war
+*.ear
