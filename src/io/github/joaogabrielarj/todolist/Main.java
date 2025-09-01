@@ -4,6 +4,7 @@ import io.github.joaogabrielarj.todolist.controller.TarefaController;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Projeto To-Do List iniciado!");
+        TarefaController controller = new TarefaController();
+        controller.iniciar();
     }
 }
